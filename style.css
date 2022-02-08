@@ -1,0 +1,31 @@
+.form {
+    text-align: center;
+}
+
+#firstName, #lastName {
+    font-size: 14px; 
+    font-weight: bold;
+}
+
+#email {
+    font-size: 14px;
+    font-style: italic;
+}
+
+#phone, #promo, #other {
+    font-size: 12px;
+}
+
+.required-label {
+    color: red;
+    font-weight: bold;
+}
+
+.footer {
+    font-size: 18px; 
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
